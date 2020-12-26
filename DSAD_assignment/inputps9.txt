@@ -1,0 +1,20 @@
+No of people in town: 10
+gupton : sharman, roy, kumar, ray
+ray : ray, goldberg, arun, gupton
+Sharman : gupton, panth, jaim
+Kumar : gupton
+Panth : kumar
+Roy :
+Goldberg : roy
+Arun : jaim
+Goldi :
+Jaim :
+Infections on Day-0 : Roy, jaim
+findInfectionPeriod(person="kumar")
+findInfectionPeriod(person="arun")
+findInfectedPerson(day=30)
+findInfectedPerson(day=1)
+findInfectionPeriod(person="goldi")
+findInfectedPath(person="roy")
+findInfectedPath(person="panth")
+findInfectedPath(person="kumar")
