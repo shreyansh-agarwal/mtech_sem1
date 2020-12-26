@@ -1,3 +1,4 @@
+#DSAD
 lines_array = []
 townpeoplecount = -1
 graph = None
