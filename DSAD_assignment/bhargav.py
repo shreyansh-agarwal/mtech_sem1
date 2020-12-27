@@ -95,7 +95,7 @@ def findInfectedPath(**kwargs):
 
             list_x = [len(path), path]
             list_y.append(list_x)
-            print(list_y)
+            print(min(list_y))
             print("Infection Path to " + value + " is :", end="")
             print(*path, sep='->')
 
